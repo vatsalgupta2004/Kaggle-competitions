@@ -1,4 +1,6 @@
 Kaggle Competitions Portfolio
+kaggle profile link : https://www.kaggle.com/vatsal2004gupta
+
 Welcome! This is a living portfolio of Kaggle competitions tackled with reproducible notebooks, clear reasoning, and honest evaluation. Browse challenges, run the notebooks, and leave feedback—suggestions and PRs are encouraged.
 
 Quick start
